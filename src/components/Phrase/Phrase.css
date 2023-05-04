@@ -1,0 +1,9 @@
+.phrase_container {
+   min-width: 280px;
+   max-width: 500px;
+   
+   background-color: rgba(246, 243, 243, 0.5);
+   color: #08010e;
+   padding: 70px 33px;
+   border-radius: 39px;
+}

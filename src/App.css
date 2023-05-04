@@ -1,0 +1,27 @@
+.container_app{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+.btn_container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img2 {
+  background-image: url("./assets/space2.jpg");
+}
+
+.container_title{
+  font-size: 250%;
+  color: rgb(163, 168, 217);
+}
